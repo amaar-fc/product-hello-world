@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "flexipay-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "/Users/amaar.khan/Projects/flexipay-product-design-preview", "run", "dev"],
+      "port": 5173
+    }
+  ]
+}
